@@ -1,0 +1,36 @@
+# Zugangsdaten und lokale Konfiguration
+.env
+.env.*
+!.env.example
+!.env.sample
+*.pem
+*.key
+*.p12
+*.pfx
+credentials.json
+secrets.json
+
+# Lokale Assistenten- und Werkzeugdaten
+.codex/
+.claude/
+.aws/
+
+# Abhängigkeiten und Build-Ausgaben
+node_modules/
+dist/
+build/
+coverage/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Betriebssystem, Editor und temporäre Dateien
+.DS_Store
+Thumbs.db
+Desktop.ini
+.vscode/
+.idea/
+*.log
+*.tmp
+*.bak
