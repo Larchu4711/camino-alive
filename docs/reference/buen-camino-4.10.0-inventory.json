@@ -1,0 +1,216 @@
+{
+  "reference": {
+    "name": "Buen Camino",
+    "package": "com.editorialbuencamino.buencamino",
+    "version_name": "4.10.0",
+    "version_code": "508",
+    "bytes": 60790143,
+    "sha256": "5fdfe23eca4302d252b96b66841cd5cbe8fc5c03f7111e8ed4c706d158ca5c6f",
+    "min_sdk": "24",
+    "target_sdk": "36",
+    "split_apks": 20,
+    "cpu_abis": [
+      "arm64-v8a"
+    ]
+  },
+  "framework": {
+    "flutter": true,
+    "dart_source_files": 0,
+    "libapp_bytes": 17105840,
+    "native_libraries": [
+      {
+        "path": "lib/arm64-v8a/libapp.so",
+        "bytes": 17105840
+      },
+      {
+        "path": "lib/arm64-v8a/libdartjni.so",
+        "bytes": 123776
+      },
+      {
+        "path": "lib/arm64-v8a/libdatastore_shared_counter.so",
+        "bytes": 7112
+      },
+      {
+        "path": "lib/arm64-v8a/libflutter.so",
+        "bytes": 11317712
+      },
+      {
+        "path": "lib/arm64-v8a/libsentry-android.so",
+        "bytes": 17944
+      },
+      {
+        "path": "lib/arm64-v8a/libsentry.so",
+        "bytes": 740720
+      },
+      {
+        "path": "lib/arm64-v8a/libsqlcipher.so",
+        "bytes": 5187544
+      }
+    ]
+  },
+  "assets": {
+    "count": 374,
+    "category_counts": {
+      "root": 3,
+      "env": 2,
+      "icons": 306,
+      "info_general": 9,
+      "new_planif_tuto": 54
+    },
+    "extension_counts": {
+      ".db": 1,
+      "": 2,
+      ".svg": 88,
+      ".png": 207,
+      ".jpg": 11,
+      ".json": 11,
+      ".mp4": 54
+    },
+    "general_information": [
+      {
+        "language": "de",
+        "sections": 21,
+        "bytes": 37352
+      },
+      {
+        "language": "en",
+        "sections": 21,
+        "bytes": 34483
+      },
+      {
+        "language": "es",
+        "sections": 21,
+        "bytes": 34451
+      },
+      {
+        "language": "fr",
+        "sections": 21,
+        "bytes": 39458
+      },
+      {
+        "language": "it",
+        "sections": 21,
+        "bytes": 35276
+      },
+      {
+        "language": "ko",
+        "sections": 21,
+        "bytes": 38417
+      },
+      {
+        "language": "pl",
+        "sections": 21,
+        "bytes": 34524
+      },
+      {
+        "language": "pt",
+        "sections": 21,
+        "bytes": 34819
+      },
+      {
+        "language": "zh",
+        "sections": 22,
+        "bytes": 30331
+      }
+    ],
+    "planner_videos": 54,
+    "planner_video_languages": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "it",
+      "ko",
+      "pl",
+      "pt",
+      "zh"
+    ]
+  },
+  "database": {
+    "filename": "BuenCamino_v2.db",
+    "bytes": 4624384,
+    "plain_sqlite_header": false,
+    "sqlcipher_native_library_present": true,
+    "decryption_attempted": false,
+    "table_counts_known": false
+  },
+  "feature_class_evidence": [
+    "ConLaColaboracionScreen",
+    "ContentSharingRemoteDatasource",
+    "ContentSharingRepository",
+    "ContentSharingRepositoryImpl",
+    "DownloadMapsNotifier",
+    "FiltroMapaDialog",
+    "GuiasOracionCubit",
+    "GuiasOracionRepository",
+    "GuiasOracionRepositoryImpl",
+    "GuiasOracionScreen",
+    "HelpPlanificadorSheet",
+    "LocationSharingRemoteDatasource",
+    "LocationSharingRepository",
+    "LocationSharingRepositoryImpl",
+    "LoginScreen",
+    "MapScreen",
+    "MapaBloc",
+    "MapaRutasBloc",
+    "MapaRutasDialog",
+    "MapaRutasScreen",
+    "NewPlanifTutorialScreen",
+    "NewPlanificadorRepository",
+    "NewPlanificadorRepositoryImpl",
+    "NuevosMapasScreen",
+    "OpenWeatherMapDatasource",
+    "PlanSharingRemoteDatasource",
+    "PlanSharingRepository",
+    "PlanSharingRepositoryImpl",
+    "PlanificadorDetalleEtapaBloc",
+    "PlanificadorDetalleEtapaScreen",
+    "PlanificadorNuevaEtapaBloc",
+    "PlanificadorNuevaEtapaScreen",
+    "PlanificadorPpalBloc",
+    "PlanificadorPpalScreen",
+    "PlanificadorSelecLocalidadBloc",
+    "PlanificadorSeleccLocalidadScreen",
+    "PlanificadorTutoScreen",
+    "SharedContentCubit",
+    "SharedContentNotifier",
+    "SharedContentScreen",
+    "SubscriptionScreen",
+    "SyncroRepository",
+    "SyncroRepositoryImpl",
+    "TagSharingRepositoryImpl",
+    "UnifiedSharingRemoteDatasource",
+    "UnifiedSharingRepository",
+    "UnifiedSharingRepositoryImpl",
+    "ValoracionesRepository",
+    "ValoracionesRepositoryImpl",
+    "WeatherDatasource",
+    "WeatherRepository",
+    "WeatherRepositoryImpl",
+    "goToChatIaScreen",
+    "goToDownloadMapsScreen",
+    "goToEditProfileScreen",
+    "goToLoginScreen",
+    "goToMapaRutasScreen",
+    "goToMapaScreen",
+    "goToMyProfileScreen",
+    "goToPlanificadorDetalleEtapaScreen",
+    "goToPlanificadorNuevaEtapaScreen",
+    "goToPlanificadorScreen",
+    "goToPlanificadorSeleccLocalidadScreen",
+    "goToSharedContentScreen",
+    "goToSubscriptionScreen",
+    "showDownloadMapsConfirmDialog",
+    "showDownloadViejosMapasDialog",
+    "showSharedNewContentDialog"
+  ],
+  "environment_configuration": {
+    "value_publication": false,
+    "third_party_credentials_reused": false
+  },
+  "runtime_inspection": {
+    "installed": false,
+    "screens_observed_on_device": false,
+    "backend_requests_sent": false
+  }
+}
