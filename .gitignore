@@ -34,3 +34,13 @@ Desktop.ini
 *.log
 *.tmp
 *.bak
+
+# Lokale Referenzpakete und extrahierte Fremd-App-Inhalte
+.local/
+*.apk
+*.xapk
+*.aab
+
+.swarm/
+
+.claude-flow/

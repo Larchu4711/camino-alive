@@ -4,11 +4,12 @@ Zentrales Repository für das Projekt **Camino Alive**.
 
 ## Projektstand
 
-Stand: 12. Oktober 2026. Das Projekt befindet sich in der Initialisierung. Im lokalen Projektordner lagen beim Einrichten noch kein Quellcode und keine fachlichen Projektunterlagen vor. Diese Dokumentation beschreibt den belegten Ausgangsstand; Produktumfang und Technik sind noch festzulegen.
+Stand: 12. Oktober 2026. Das Projekt befindet sich in der Initialisierung. Im lokalen Projektordner lagen beim Einrichten noch kein Quellcode und keine fachlichen Projektunterlagen vor. Als Referenz für die erste Camino-Alive-Basis wurde Buen Camino 4.10.0 bereitgestellt. Die XAPK wurde statisch analysiert; ein neuer App-Code und eine nutzbare Camino-Alive-APK existieren noch nicht. Vollständigkeit der verschlüsselten Routendaten und genauer UI-Abgleich sind offen.
 
 ## Dokumentation
 
 - [Projektübersicht](docs/PROJECT.md): Ziel, Rahmen und offene Entscheidungen.
+- [Buen-Camino-Referenzanalyse](docs/reference/BUEN-CAMINO-ANALYSIS.md): Paket, Inhalte, Funktionsmatrix und Umsetzungswege.
 - [Aufgabenplanung](docs/ROADMAP.md): Nächste Arbeitsschritte.
 - [Mitwirkung](CONTRIBUTING.md): Arbeitsablauf und Prüfung von Änderungen.
 - [Arbeitsregeln für Assistenten](AGENTS.md): Fortführung des Projekts.
