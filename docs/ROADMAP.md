@@ -5,8 +5,8 @@
 - [x] Lokalen Ausgangsstand prüfen.
 - [x] Projektübersicht und Arbeitsregeln anlegen.
 - [x] GitHub-Repository Larchu4711/camino-alive bereitgestellt und Schreibrechte geprüft.
-- [ ] Lokale Arbeitskopie über `origin` verbinden und ersten Projektstand hochladen.
-- [ ] Übereinstimmung zwischen lokalem und entferntem Commit prüfen.
+- [x] Lokale Arbeitskopie über `origin` verbunden und ersten Projektstand hochgeladen.
+- [x] Übereinstimmung zwischen lokalem und entferntem Commit geprüft.
 
 ## Nächste fachliche Schritte
 
